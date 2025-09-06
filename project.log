@@ -1,0 +1,139 @@
+2025-09-06 00:20:39 | INFO | utils_teja:46 | Logger loaded.
+2025-09-06 00:20:39 | INFO | __main__:37 | Logger loaded.
+2025-09-06 00:20:39.453 | INFO     | __main__:<module>:37 - Logger loaded.
+2025-09-06 00:20:39 | INFO | __main__:197 | #####################################
+2025-09-06 00:20:39.453 | INFO     | __main__:main:197 - #####################################
+2025-09-06 00:20:39 | INFO | __main__:198 | # Starting execution of main()
+2025-09-06 00:20:39.453 | INFO     | __main__:main:198 - # Starting execution of main()
+2025-09-06 00:20:39 | INFO | __main__:199 | #####################################
+
+2025-09-06 00:20:39.453 | INFO     | __main__:main:199 - #####################################
+
+2025-09-06 00:20:39 | INFO | __main__:201 | Byline: 
+**********************************************************
+N V Tech Solutions — Project Header
+**********************************************************
+Author:                     Venkat Teja Nallamothu
+Motto:                      Turning Data into Insights
+Years Active:               5
+Accepting New Clients?:     True
+Our Headquarters:           Piscataway, NJ
+Number of Our Locations:    5
+All of Our Locations:       ['New York', 'Los Angeles', 'Chicago', 'Houston', 'Miami']
+Remote Workshops?:          True
+Are We Hiring?:             False
+Number of Team Members:     25
+Number of our Services:     3
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-09-06 00:20:39.453 | INFO     | __main__:main:201 - Byline: 
+**********************************************************
+N V Tech Solutions — Project Header
+**********************************************************
+Author:                     Venkat Teja Nallamothu
+Motto:                      Turning Data into Insights
+Years Active:               5
+Accepting New Clients?:     True
+Our Headquarters:           Piscataway, NJ
+Number of Our Locations:    5
+All of Our Locations:       ['New York', 'Los Angeles', 'Chicago', 'Houston', 'Miami']
+Remote Workshops?:          True
+Are We Hiring?:             False
+Number of Team Members:     25
+Number of our Services:     3
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-09-06 00:20:39 | INFO | __main__:73 | FUNCTION: create_folders_for_range()
+2025-09-06 00:20:39.453 | INFO     | __main__:create_folders_for_range:73 - FUNCTION: create_folders_for_range()
+2025-09-06 00:20:39 | INFO | __main__:74 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-06 00:20:39.453 | INFO     | __main__:create_folders_for_range:74 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-06 00:20:39 | INFO | __main__:79 | Created folder: C:\GitHub_Repo\Project02-Python\2020
+2025-09-06 00:20:39.453 | INFO     | __main__:create_folders_for_range:79 - Created folder: C:\GitHub_Repo\Project02-Python\2020
+2025-09-06 00:20:39 | INFO | __main__:79 | Created folder: C:\GitHub_Repo\Project02-Python\2021
+2025-09-06 00:20:39.453 | INFO     | __main__:create_folders_for_range:79 - Created folder: C:\GitHub_Repo\Project02-Python\2021
+2025-09-06 00:20:39 | INFO | __main__:79 | Created folder: C:\GitHub_Repo\Project02-Python\2022
+2025-09-06 00:20:39.453 | INFO     | __main__:create_folders_for_range:79 - Created folder: C:\GitHub_Repo\Project02-Python\2022
+2025-09-06 00:20:39 | INFO | __main__:79 | Created folder: C:\GitHub_Repo\Project02-Python\2023
+2025-09-06 00:20:39.453 | INFO     | __main__:create_folders_for_range:79 - Created folder: C:\GitHub_Repo\Project02-Python\2023
+2025-09-06 00:20:39 | INFO | __main__:97 | FUNCTION: create_folders_from_list()
+2025-09-06 00:20:39.453 | INFO     | __main__:create_folders_from_list:97 - FUNCTION: create_folders_from_list()
+2025-09-06 00:20:39 | INFO | __main__:98 | PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-06 00:20:39.453 | INFO     | __main__:create_folders_from_list:98 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-06 00:20:39 | INFO | __main__:103 | Created folder: C:\GitHub_Repo\Project02-Python\data-csv
+2025-09-06 00:20:39.453 | INFO     | __main__:create_folders_from_list:103 - Created folder: C:\GitHub_Repo\Project02-Python\data-csv
+2025-09-06 00:20:39 | INFO | __main__:103 | Created folder: C:\GitHub_Repo\Project02-Python\data-excel
+2025-09-06 00:20:39.453 | INFO     | __main__:create_folders_from_list:103 - Created folder: C:\GitHub_Repo\Project02-Python\data-excel
+2025-09-06 00:20:39 | INFO | __main__:103 | Created folder: C:\GitHub_Repo\Project02-Python\data-json
+2025-09-06 00:20:39.453 | INFO     | __main__:create_folders_from_list:103 - Created folder: C:\GitHub_Repo\Project02-Python\data-json
+2025-09-06 00:20:39 | INFO | __main__:123 | FUNCTION: create_prefixed_folders()
+2025-09-06 00:20:39.453 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:123 - FUNCTION: create_prefixed_folders()
+2025-09-06 00:20:39 | INFO | __main__:124 | PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-06 00:20:39.453 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:124 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-06 00:20:39 | INFO | __main__:131 | Created folder: C:\GitHub_Repo\Project02-Python\output-csv
+2025-09-06 00:20:39.466 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - Created folder: C:\GitHub_Repo\Project02-Python\output-csv
+2025-09-06 00:20:39 | INFO | __main__:131 | Created folder: C:\GitHub_Repo\Project02-Python\output-excel
+2025-09-06 00:20:39.466 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - Created folder: C:\GitHub_Repo\Project02-Python\output-excel
+2025-09-06 00:20:39 | INFO | __main__:131 | Created folder: C:\GitHub_Repo\Project02-Python\output-json
+2025-09-06 00:20:39.467 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - Created folder: C:\GitHub_Repo\Project02-Python\output-json
+2025-09-06 00:20:39 | INFO | __main__:147 | FUNCTION: create_folders_periodically()
+2025-09-06 00:20:39.467 | INFO     | __main__:create_folders_periodically:147 - FUNCTION: create_folders_periodically()
+2025-09-06 00:20:39 | INFO | __main__:148 | PARAMETER: duration_seconds = 5
+2025-09-06 00:20:39.467 | INFO     | __main__:create_folders_periodically:148 - PARAMETER: duration_seconds = 5
+2025-09-06 00:20:39 | INFO | __main__:155 | Created folder: C:\GitHub_Repo\Project02-Python\periodic-folder-20250906-002039
+2025-09-06 00:20:39.467 | INFO     | __main__:create_folders_periodically:155 - Created folder: C:\GitHub_Repo\Project02-Python\periodic-folder-20250906-002039
+2025-09-06 00:20:39 | INFO | __main__:157 | Waiting for 5 seconds before creating the next folder...
+2025-09-06 00:20:39.467 | INFO     | __main__:create_folders_periodically:157 - Waiting for 5 seconds before creating the next folder...
+2025-09-06 00:20:44 | INFO | __main__:155 | Created folder: C:\GitHub_Repo\Project02-Python\periodic-folder-20250906-002044
+2025-09-06 00:20:44.468 | INFO     | __main__:create_folders_periodically:155 - Created folder: C:\GitHub_Repo\Project02-Python\periodic-folder-20250906-002044
+2025-09-06 00:20:44 | INFO | __main__:157 | Waiting for 5 seconds before creating the next folder...
+2025-09-06 00:20:44.468 | INFO     | __main__:create_folders_periodically:157 - Waiting for 5 seconds before creating the next folder...
+2025-09-06 00:20:49 | INFO | __main__:155 | Created folder: C:\GitHub_Repo\Project02-Python\periodic-folder-20250906-002049
+2025-09-06 00:20:49.469 | INFO     | __main__:create_folders_periodically:155 - Created folder: C:\GitHub_Repo\Project02-Python\periodic-folder-20250906-002049
+2025-09-06 00:20:49 | INFO | __main__:157 | Waiting for 5 seconds before creating the next folder...
+2025-09-06 00:20:49.469 | INFO     | __main__:create_folders_periodically:157 - Waiting for 5 seconds before creating the next folder...
+2025-09-06 00:20:54 | INFO | __main__:155 | Created folder: C:\GitHub_Repo\Project02-Python\periodic-folder-20250906-002054
+2025-09-06 00:20:54.471 | INFO     | __main__:create_folders_periodically:155 - Created folder: C:\GitHub_Repo\Project02-Python\periodic-folder-20250906-002054
+2025-09-06 00:20:54 | INFO | __main__:157 | Waiting for 5 seconds before creating the next folder...
+2025-09-06 00:20:54.471 | INFO     | __main__:create_folders_periodically:157 - Waiting for 5 seconds before creating the next folder...
+2025-09-06 00:20:59 | INFO | __main__:155 | Created folder: C:\GitHub_Repo\Project02-Python\periodic-folder-20250906-002059
+2025-09-06 00:20:59.473 | INFO     | __main__:create_folders_periodically:155 - Created folder: C:\GitHub_Repo\Project02-Python\periodic-folder-20250906-002059
+2025-09-06 00:20:59 | INFO | __main__:157 | Waiting for 5 seconds before creating the next folder...
+2025-09-06 00:20:59.473 | INFO     | __main__:create_folders_periodically:157 - Waiting for 5 seconds before creating the next folder...
+2025-09-06 00:21:04 | INFO | __main__:177 | FUNCTION: create_standardized_folders()
+2025-09-06 00:21:04.475 | INFO     | __main__:create_standardized_folders:177 - FUNCTION: create_standardized_folders()
+2025-09-06 00:21:04 | INFO | __main__:178 | PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-09-06 00:21:04.475 | INFO     | __main__:create_standardized_folders:178 - PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-09-06 00:21:04 | INFO | __main__:188 | Created folder: C:\GitHub_Repo\Project02-Python\north-america
+2025-09-06 00:21:04.475 | INFO     | __main__:create_standardized_folders:188 - Created folder: C:\GitHub_Repo\Project02-Python\north-america
+2025-09-06 00:21:04 | INFO | __main__:188 | Created folder: C:\GitHub_Repo\Project02-Python\south-america
+2025-09-06 00:21:04.475 | INFO     | __main__:create_standardized_folders:188 - Created folder: C:\GitHub_Repo\Project02-Python\south-america
+2025-09-06 00:21:04 | INFO | __main__:188 | Created folder: C:\GitHub_Repo\Project02-Python\europe
+2025-09-06 00:21:04.475 | INFO     | __main__:create_standardized_folders:188 - Created folder: C:\GitHub_Repo\Project02-Python\europe
+2025-09-06 00:21:04 | INFO | __main__:188 | Created folder: C:\GitHub_Repo\Project02-Python\asia
+2025-09-06 00:21:04.475 | INFO     | __main__:create_standardized_folders:188 - Created folder: C:\GitHub_Repo\Project02-Python\asia
+2025-09-06 00:21:04 | INFO | __main__:188 | Created folder: C:\GitHub_Repo\Project02-Python\africa
+2025-09-06 00:21:04.475 | INFO     | __main__:create_standardized_folders:188 - Created folder: C:\GitHub_Repo\Project02-Python\africa
+2025-09-06 00:21:04 | INFO | __main__:188 | Created folder: C:\GitHub_Repo\Project02-Python\oceania
+2025-09-06 00:21:04.475 | INFO     | __main__:create_standardized_folders:188 - Created folder: C:\GitHub_Repo\Project02-Python\oceania
+2025-09-06 00:21:04 | INFO | __main__:188 | Created folder: C:\GitHub_Repo\Project02-Python\middle-east
+2025-09-06 00:21:04.475 | INFO     | __main__:create_standardized_folders:188 - Created folder: C:\GitHub_Repo\Project02-Python\middle-east
+2025-09-06 00:21:04 | INFO | __main__:222 | 
+#####################################
+2025-09-06 00:21:04.475 | INFO     | __main__:main:222 - 
+#####################################
+2025-09-06 00:21:04 | INFO | __main__:223 | # Completed execution of main()
+2025-09-06 00:21:04.475 | INFO     | __main__:main:223 - # Completed execution of main()
+2025-09-06 00:21:04 | INFO | __main__:224 | #####################################
+2025-09-06 00:21:04.475 | INFO     | __main__:main:224 - #####################################
