@@ -7,7 +7,7 @@ Purpose: Automate the creation of project folders
 Hint: See the Textbook, Skill Drills, and GUIDES for code snippets to help complete this module.
 
 Author: Venkat Teja Nallamothu 
-Date: June 2024
+Date: September 2025
 """
 
 #####################################
@@ -197,7 +197,7 @@ def main() -> None:
     logger.info("#####################################")
     logger.info("# Starting execution of main()")
     logger.info("#####################################\n")
-    
+
     logger.info(f"Byline: {utils_teja.get_byline()}")
 
     # Call function 1 to create folders for a range (e.g. years)
